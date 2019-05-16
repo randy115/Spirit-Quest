@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Main Menu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/SpiritQuest.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Settings.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/HighScores.unity
+  isLoaded: 0
+  isActive: 0
